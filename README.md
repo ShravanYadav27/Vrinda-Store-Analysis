@@ -21,7 +21,7 @@ ________________________________________
 	Compared revenue during special occasions (like Diwali, New Year, etc.).
 	Useful for planning seasonal campaigns.
 ________________________________________
-✅ Conclusion:
+# Conclusion:
 This Excel dashboard gives a clear view of Vrinda Store’s sales trends, top products, and customer behavior. The project makes use of charts, slicers, and pivot tables to support easy decision-making for store growth.
 
 
